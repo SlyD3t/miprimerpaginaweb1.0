@@ -1,4 +1,5 @@
 numero=5;
+numero2=2;
 frase="Hola mundo";
 boleano=true;
 doble=5.5;
